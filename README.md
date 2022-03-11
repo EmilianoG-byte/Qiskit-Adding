@@ -12,7 +12,7 @@ The two solutions are given after measuring the register qubits of the whole cir
 - [01010] == [7,9] and 
 - [01101] == [7,8,1]
 
-
+![image](https://user-images.githubusercontent.com/57567043/157991180-4da2735f-4f73-4618-b6e9-4ecce549b0ba.png)
 
 ## Setup
 
