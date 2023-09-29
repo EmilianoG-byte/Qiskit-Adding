@@ -4,11 +4,11 @@ This is the solution for the screening task #1 for the 5th cohort of the QC Ment
 
 ## Problem Statement:
 
-Design a quantum circuit that finds the subsets where the sum is equal to the value 16 in the following vector [5,7,8,9,1]
+Design a quantum circuit that finds the subsets where the sum is equal to the value 16 in the vector: [5,7,8,9,1]
 
 ## Solution:
 
-The two solutions are given after measuring the register qubits of the whole circuit. These are:
+The two solutions are given after measuring the full register of the circuit. These are:
 - [01010] == [7,9] and 
 - [01101] == [7,8,1]
 
